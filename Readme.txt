@@ -1,2 +1,2 @@
-local repository sua day
+remote repository sua day
 
